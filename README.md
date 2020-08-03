@@ -5,4 +5,6 @@ The most interesting thing about this project is the way I calculated the drift 
 
 Multithreading was used to separate the rendering process and input handling.
 
+You can download the app [here](https://github.com/WriterZephos/MultiThreadedGameDemo/raw/master/MultiThreadedGameDemo.jar) (Java executable).
+
 ![screen shot](https://github.com/WriterZephos/MultiThreadedGameDemo/blob/master/GameDemo.png?raw=true)
